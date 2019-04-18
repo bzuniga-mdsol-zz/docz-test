@@ -1,9 +1,9 @@
 {
-  "vendors.js": "/static/js/vendors.a94e70c2.js",
-  "vendors.js.map": "/static/js/vendors.e3f0a2501d7d493c2f07.js.map",
-  "app.js": "/static/js/app.e3f0a2501d7d493c2f07.js",
-  "app.js.map": "/static/js/app.e3f0a2501d7d493c2f07.js.map",
+  "vendors.js": "/static/js/vendors.d2908691.js",
+  "vendors.js.map": "/static/js/vendors.4f9c73e48d6f167d5689.js.map",
+  "app.js": "/static/js/app.4f9c73e48d6f167d5689.js",
+  "app.js.map": "/static/js/app.4f9c73e48d6f167d5689.js.map",
   "src-app.js": "/static/js/src-app.79063123.js",
-  "src-app.js.map": "/static/js/src-app.e3f0a2501d7d493c2f07.js.map",
+  "src-app.js.map": "/static/js/src-app.4f9c73e48d6f167d5689.js.map",
   "index.html": "/index.html"
 }
